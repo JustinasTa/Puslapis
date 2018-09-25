@@ -1,3 +1,1 @@
-float: left !important;
-
-// * Justinas web page * //
+Reset staging
